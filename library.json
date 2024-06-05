@@ -1,0 +1,12 @@
+{
+  "name": "LiquidCrystal_I2C",
+  "keywords": "LCD, liquidcrystal, I2C",
+  "description": "The LiquidCrystal_I2C library is an integral part of the Alash Education Learning Robotics Kit, designed to facilitate the control of I2C-based LCD displays with Arduino, ESP32, and ESP8266 microcontrollers. This library simplifies the interface process, reducing the number of pins required for connecting the display and enhancing the educational experience by making it easier to focus on learning and project development.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Alash-electronics/LiquidCrystal_I2C"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
